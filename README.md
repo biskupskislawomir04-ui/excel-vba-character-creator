@@ -1,6 +1,6 @@
 
 # Interactive RPG Character Creator & Stat Engine (MS Excel & VBA)
-
+![Prezentacja](Gifkreatorpostaci.gif)
 ##  O projekcie
 Zaawansowany, interaktywny kreator postaci RPG zrealizowany w całości w programie MS Excel z wykorzystaniem języka **VBA (Visual Basic for Applications)**. Projekt łączy logikę relacyjnych baz danych z dynamicznym renderowaniem grafiki (Pixel-Art HUD) oraz zaawansowanym silnikiem kalkulacji statystyk w czasie rzeczywistym.
 
